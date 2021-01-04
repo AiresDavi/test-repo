@@ -1,4 +1,4 @@
-#Baby Steps
+# Baby Steps
 
 Following the freeCodeCamp tutorial on youtube
 
